@@ -45,5 +45,5 @@ I intend to continue practicing with CSS and HTML to further improve my abilitie
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Matthew Haggard](https://mhaggard25.github.io/front-end-mentor-qr-code-solution/)
 - Frontend Mentor - [@mhaggard25](https://www.frontendmentor.io/profile/yourusername)
