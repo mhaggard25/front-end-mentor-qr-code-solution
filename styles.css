@@ -1,0 +1,49 @@
+.frame{
+    width: 275px;
+    background:  hsl(0, 0%, 100%);
+    border-radius: 25px;
+}
+
+.center{
+        margin: auto;
+        padding-top: 10px;
+        padding-left:10px;
+        padding-right:10px;
+        border-radius: 25px;       
+}
+
+.bold-text{
+    font-weight:700;
+    padding-left: 30px;
+    padding-right: 35px;
+    text-align: center;
+    
+}
+
+.paragraph-text{
+    font-weight:400;
+    font-size: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+}
+
+img{
+    width:93%;
+    height: 50%;
+}
+
+body{
+    display:grid;
+    place-items:center;
+    margin-top: 50%;;
+    background-color: hsl(212, 45%, 89%);
+    font-family:'Outfit', 'sans-serrif';
+}
+
+html{
+    margin:auto;
+    display: table;
+}
